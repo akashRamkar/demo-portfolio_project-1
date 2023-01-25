@@ -741,6 +741,10 @@ a{
        border-color: var(--shadow-col-2);
     
     }
+    #card3-no-border{
+        border-bottom: 0px;
+        
+    }
     .iconbox-container{
         margin-top: 2rem;
         /* background-color: #6E07F3; */
