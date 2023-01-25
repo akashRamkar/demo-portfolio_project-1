@@ -854,6 +854,10 @@ a{
         height: 30px;
         /* border: 2px solid var(--purple-light); */
      }
+     .footer-logo {
+        margin-top: 4rem;
+        /* margin: 4rem auto 3rem auto; */
+    }
      .footer-logo img{
         width: 40px;
     
