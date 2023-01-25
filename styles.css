@@ -720,6 +720,21 @@ a{
 
 
  @media (max-width:590px){
+    /*  */
+
+    .device-img-container{
+        margin-top:4% ;
+        height: 20rem;
+        object-fit: cover;
+        background-size: cover;
+        box-sizing: border-box;
+        
+        /* background-color: yellow; */
+        width:100vw;
+        padding: 10px;
+        margin-left: -50px;
+    }
+    /*  */
     .skill-section{
       
         flex-wrap: wrap;
